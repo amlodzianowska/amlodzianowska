@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello! I'm Anna
 
 I'm Anna Mlodzianowska, a full-stack developer with over two years of experience building software for public sector clients in a consulting role. I work primarily with React, .NET, and AWS, contributing to real-world applications that support government services and operations.
 
@@ -14,10 +14,10 @@ My background spans frontend and backend development, test automation, deploymen
 
 Here's a list of technologies I've had experience with so far:
 
-**Languages & Frameworks:** JS/TS, React, Next.js, C#/.NET, Python, HTML, CSS, SQL
-**Testing:** Cypress, XUnit, Jest, Postman
-**Cloud:** AWS (EC2, RDS, S3, Lambda, Cloudwatch, IAM, VPC)
-**Tools & Skills:** REST APIs, Docker, Terraform (IaC)
+- **Languages & Frameworks:** JS/TS, React, Next.js, C#/.NET, Python, HTML, CSS, SQL
+- **Testing:** Cypress, XUnit, Jest, Postman
+- **Cloud:** AWS (EC2, RDS, S3, Lambda, Cloudwatch, IAM, VPC)
+- **Tools & Skills:** REST APIs, Docker, Terraform (IaC)
 
 ## What I'm Learning
 
@@ -27,6 +27,7 @@ Here's a list of technologies I've had experience with so far:
 ## Let's Connect
 
 If you're building tools that serve real users or want to collaborate on something hands-on, feel free to reach out.
+
 
 <!--
 **amlodzianowska/amlodzianowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
