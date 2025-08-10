@@ -17,7 +17,7 @@ Here's a list of technologies I've had experience with so far:
 - **Languages & Frameworks:** JS/TS, React, Next.js, C#/.NET, Python, HTML, CSS, SQL
 - **Testing:** Cypress, XUnit, Jest, Postman
 - **Cloud:** AWS (EC2, RDS, S3, Lambda, Cloudwatch, IAM, VPC)
-- **Tools & Skills:** REST APIs, Docker, Terraform (IaC)
+- **Tools & Skills:** REST APIs, Docker
 
 ## What I'm Learning
 
