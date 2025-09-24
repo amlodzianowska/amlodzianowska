@@ -21,7 +21,7 @@ Here's a list of technologies I've had experience with so far:
 
 ## What I'm Learning
 
-- **Cybersecurity Foundations:** Currently enrolled in a community college program to earn an Advanced Certificate in Cybersecurity. Learning networking, OS internals, and core computing concepts.
+- **Cybersecurity Foundations:** Currently enrolled in a community college program to earn an Advanced Certificate in Cybersecurity. Enrolled in courses preparing for Security+, Linux+, and learning about digital forensics and virtualization.
 - **Cloud Architecture & DevOps:** Training through a WIOA grant in AWS and Azure services, infrastructure-as-code, and DevOps practices.
 
 ## Let's Connect
