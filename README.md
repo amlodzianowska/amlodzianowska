@@ -13,10 +13,6 @@ Here's a list of technologies I've had experience with so far:
 - **Cloud:** AWS (EC2, RDS, S3, Lambda, Cloudwatch, IAM, VPC)
 - **Tools & Skills:** REST APIs, Docker
 
-## Let's Connect
-
-I haven't been active a ton lately, but I have several ideas for building cybersecurity-focused applications to deepen my understanding of containerization, authentication, and SIEM. If you’re interested in collaborating, feel free to reach out.
-
 <!--
 **amlodzianowska/amlodzianowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
