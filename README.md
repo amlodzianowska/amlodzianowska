@@ -1,12 +1,11 @@
 # Hello! I'm Anna
-
-I'm a tech enthusiast with experience working on full-stack solutions for public sector clients built with React, .NET, and AWS. In May I'm graduating from a college program focused on cybersecurity, gaining hands-on skills in operating systems, ethical hacking and C++.
+I'm a full-stack developer with several years' experience building public-sector solutions with React, .NET, and AWS. I recently completed a college cybersecurity program, adding a security foundation to how I build. Currently focused on backend and cloud infrastructure.
 
 ## Background, Technical Skills & Experience
 
-Over the course of my work, I’ve been fortunate to work on interesting projects and have gained experience in frontend and backend development, test automation, deployment support, and requirements gathering. I’ve contributed to applications that handle background checks for firearm purchases, traffic accident reporting, and, if you live in Chicago and drive a car, the wheel tax vehicle sticker application 😄.
+Over the course of my work, I’ve been fortunate to work on interesting projects and have gained experience in frontend and backend development, test automation, deployment support, and requirements gathering.
 
-Here's a list of technologies I've had experience with so far:
+Technologies I've had experience with so far:
 
 - **Cloud & Infrastructure:** AWS (EC2, RDS, Lambda, S3, CloudWatch, ECS), Docker, Linux
 - **Languages & Frameworks:** C#, .NET 6+, JavaScript, TypeScript, React, Python, C++, SQL
